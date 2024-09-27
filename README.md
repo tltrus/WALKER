@@ -3,7 +3,7 @@
 
 # Self-avoiding-Walker-backtracking
 
-Based on #162 — Self Avoiding Walk  https://thecodingtrain.com/challenges/162-self-avoiding-walk
+- Based on #162 — Self Avoiding Walk  https://thecodingtrain.com/challenges/162-self-avoiding-walk
 
 - https://youtu.be/SfWtZCvm44k
 
@@ -12,7 +12,7 @@ Based on #162 — Self Avoiding Walk  https://thecodingtrain.com/challenges/162-
 
 # Self-avoiding-Walker-simple
 
-Based on #162 — Self Avoiding Walk  https://thecodingtrain.com/challenges/162-self-avoiding-walk
+- Based on #162 — Self Avoiding Walk  https://thecodingtrain.com/challenges/162-self-avoiding-walk
 
 - https://youtu.be/XR5MSylRjfg
 
