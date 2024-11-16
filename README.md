@@ -4,7 +4,8 @@
 # Color-walker-bitmap
 
 - Based on: https://editor.p5js.org/Shayan-To/sketches/bwwPOY8L_
-- Youtube: 
+- Youtube: https://youtu.be/ZaYQdwpGzbc
+- Rutube: 
 
 ![image](https://github.com/user-attachments/assets/4f4fde90-d17f-4eb2-962b-87b7cc86254b)
 
